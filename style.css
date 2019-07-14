@@ -1,0 +1,63 @@
+html, {
+    background-color:black;
+  }
+  
+  
+  h1, h3{
+    color:white;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  hr{
+    width:40%;
+    background-color:#FFFFFF;
+    
+  }
+  
+  #calcoutput{
+    background-color:;
+    width:250px;
+    height:75px;
+    border-top-left-radius:2em;
+    border-top-right-radius:2em;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top:20px;
+    padding-bottom:0px;
+    
+  }
+    
+  #calculator{
+    background-color: rgba (155, 220, 219,.9);
+    padding-top: 20px;
+    pading-bottom: 30px;
+    width:250px;
+    border-bottom-left-radius:2em;
+    border-bottom-right-radius:2em;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:0rem;
+   padding-bottom:1.5rem;
+    
+  }
+  #steps{
+    font-size:2em;
+    color:white;
+  }
+  .bigButton{
+    width:93px;
+  }
+  a{
+    margin:5px;
+    width: 2.6vw;
+  }
+  body{
+    background-image: url("http://mikekurtzplumbing.com/wp-content/uploads/parser/sunrise-wallpaper-hd-1.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover; 
+  
+  }
+  .btn{
+    color:#FFFFFF;
+  }
+  
